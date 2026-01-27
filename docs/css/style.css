@@ -36,8 +36,8 @@
     --space-s-l: clamp(1.125rem, 0.5625rem + 2.5vw, 2.5rem);
 
     /* Variabler för färger */
-    --primary-color: #3498db;
-    --secondary-color: #2ecc71;
+    --primary-color: #afdcff;
+    --secondary-color: #fff081;
     --color-dark: #333;
     --color-light: #f9f9f9;
 
